@@ -1,3 +1,7 @@
+#Git LFS costs money and we're already at the max budget
+*.csv
+*.zip
+
 # History files
 .Rhistory
 .Rapp.history
